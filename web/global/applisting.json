@@ -2,9 +2,10 @@
     "title": "Application Listing",
     "version": "1.0",
     "date": "2025-06-23",
+    "versionDate": "2025-06-24",
     "groups": [
         {
-            "id": "IdentityVV",
+            "id": "identityv",
             "name": "IdentityV",
             "order": 0,
             "type": "web-tools",
