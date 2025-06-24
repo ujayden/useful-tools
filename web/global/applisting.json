@@ -2,7 +2,7 @@
     "title": "Application Listing",
     "version": "1.0",
     "date": "2025-06-23",
-    "versionDate": "2025-06-24",
+    "versionDate": "2025-06-25",
     "groups": [
         {
             "id": "identityv",
@@ -61,7 +61,13 @@
             "name": "Miscellaneous",
             "order": 2,
             "type": "web-tools",
-            "items": []
+            "items": [
+                {
+                    "name": "Florian Brand (IdentityV) Roleplay LLM System Prompt",
+                    "description": "As a big fan of Florian Brand (???), I created a system prompt for roleplaying as Florian Brand to chat with you. You can use it with any LLM that supports system prompts.",
+                    "url": "https://github.com/ujayden/florian-brand-idv-roleplay"
+                }
+                ]
         },
         {
             "id": "tools-sites",
@@ -76,6 +82,11 @@
                 {
                     "name": "Terms of Service",
                     "url": "https://www.ujayden.com/terms-of-service"
+                },
+                {
+                    "name": "View Source Code",
+                    "description": "This project is open source, you can view the source code on GitHub! I host the site on Cloudflare Pages.",
+                    "url": "https://github.com/ujayden/useful-tools.git"
                 }
             ]
         }
